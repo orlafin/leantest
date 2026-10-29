@@ -1,0 +1,10 @@
+name = "commands"
+version = "0.1.0"
+defaultTargets = ["commands"]
+
+[[lean_lib]]
+name = "Commands"
+
+[[lean_exe]]
+name = "commands"
+root = "Main"
